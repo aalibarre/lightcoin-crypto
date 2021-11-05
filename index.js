@@ -1,5 +1,9 @@
 let balance = 500.00;
 
+
+class
+
+
 class Withdrawal {
 
   constructor(amount) {
